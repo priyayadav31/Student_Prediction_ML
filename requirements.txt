@@ -7,4 +7,4 @@ dill
 Flask
 jupyter
 typing
--e .
+# -e .
